@@ -1,0 +1,11 @@
+README.md
+setup.py
+PyTubeDownloader/__init__.py
+PyTubeDownloader/downloader.py
+PyTubeDownloader.egg-info/PKG-INFO
+PyTubeDownloader.egg-info/SOURCES.txt
+PyTubeDownloader.egg-info/dependency_links.txt
+PyTubeDownloader.egg-info/entry_points.txt
+PyTubeDownloader.egg-info/requires.txt
+PyTubeDownloader.egg-info/top_level.txt
+tests/test_downloader.py

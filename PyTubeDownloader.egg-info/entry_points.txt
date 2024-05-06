@@ -1,0 +1,2 @@
+[console_scripts]
+pytubedownloader = PyTubeDownloader.test_script:main
