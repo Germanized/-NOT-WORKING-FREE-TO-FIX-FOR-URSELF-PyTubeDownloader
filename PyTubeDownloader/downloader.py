@@ -6,7 +6,7 @@ import os
 def download_video(url, output_dir=None, convert_to_mp3=False):
     api_url = "https://youtube-media-downloader2.p.rapidapi.com/ajaxSearch"
     headers = {
-        "X-RapidAPI-Key": "475fb69180msh6173118b0eb9463p19b89ejsnb4fcb3c0e6f2",
+        "X-RapidAPI-Key": "FuckYou",
         "X-RapidAPI-Host": "youtube-media-downloader2.p.rapidapi.com"
     }
     querystring = {"url": url}
